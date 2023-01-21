@@ -1,3 +1,4 @@
+<img src="https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg" />
 <h1 align="center">Hi 👋, I'm Tony Kosseify</h1>
 <h3 align="center">Full-Stack Web and Mobile App Developer - Crafting innovative solutions for the digital age</h3>
 
