@@ -1,6 +1,6 @@
-<img src="https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg" />
+<img src="[https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg](https://png.pngtree.com/thumb_back/fh260/background/20220908/pngtree-php-code-lines-on-a-monitor-application-it-web-photo-image_19765184.jpg)" />
 <h1 align="center">Hi 👋, I'm Tony Kosseify</h1>
-<h3 align="center">Full-Stack Web and Mobile App Developer - Crafting innovative solutions for the digital age</h3>
+<h3 align="center">Full-Stack Developer - Crafting innovative solutions for the digital age</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonyykosseifyy&label=Profile%20views&color=0e75b6&style=flat" alt="tonyykosseifyy" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Node, React, React Native**
 
-- 📫 How to reach me **tonykosseify123@gmail.com**
+- 📫 How to reach me **tonyykosseifyy@gmail.com**
 
 - ⚡ Fun fact **I Am a Full-Stack developer with a passion for networking and connecting with others**
 
