@@ -19,11 +19,11 @@ width="100%" src="https://png.pngtree.com/thumb_back/fh260/background/20220908/p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a href="mailto:tonyykosseifyy@gmail.com" target="blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3EHrRK4hVCVeDN9k49SfIJ8GWwfAqvL7lp3pEl3l_qz5zhjxgvT62QcTNbYh6_RfTN8&usqp=CAU" alt="your-gmail" height="40" width="40" style="border-radius: 50%; margin-right: 10px;" />
+  </a>
   <a href="https://linkedin.com/in/tonyykosseifyy" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonyy-kosseifyy" height="40" width="40" style="border-radius: 50%; margin-right: 10px;" />
-  </a>
-  <a href="mailto:tonyykosseifyy@gmail.com" target="blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3EHrRK4hVCVeDN9k49SfIJ8GWwfAqvL7lp3pEl3l_qz5zhjxgvT62QcTNbYh6_RfTN8&usqp=CAU" alt="your-gmail" height="40" width="40" style="border-radius: 50%; margin-right: 10px;" />
   </a>
 </p>
 
