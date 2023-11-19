@@ -1,5 +1,5 @@
 <img 
-width="100%" src="https://png.pngtree.com/thumb_back/fh260/background/20220908/pngtree-php-code-lines-on-a-monitor-application-it-web-photo-image_19765184.jpg" />
+width="100%" height="300px" src="https://png.pngtree.com/thumb_back/fh260/background/20220908/pngtree-php-code-lines-on-a-monitor-application-it-web-photo-image_19765184.jpg" />
 <h1 align="center">Hi 👋, I'm Tony Kosseify</h1>
 <h2 align="center">Full-Stack Developer - Crafting innovative solutions for the digital age</h2>
 
